@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "agung", "agung\agung.vcxproj", "{E050E9CC-EFE2-422E-A2F4-633E9532EEF1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enkapsulasi", "enkapsulasi\enkapsulasi.vcxproj", "{D710AB3B-3A08-43E7-A2F5-EC5A8AC6606E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{E050E9CC-EFE2-422E-A2F4-633E9532EEF1}.Release|x64.Build.0 = Release|x64
 		{E050E9CC-EFE2-422E-A2F4-633E9532EEF1}.Release|x86.ActiveCfg = Release|Win32
 		{E050E9CC-EFE2-422E-A2F4-633E9532EEF1}.Release|x86.Build.0 = Release|Win32
+		{D710AB3B-3A08-43E7-A2F5-EC5A8AC6606E}.Debug|x64.ActiveCfg = Debug|x64
+		{D710AB3B-3A08-43E7-A2F5-EC5A8AC6606E}.Debug|x64.Build.0 = Debug|x64
+		{D710AB3B-3A08-43E7-A2F5-EC5A8AC6606E}.Debug|x86.ActiveCfg = Debug|Win32
+		{D710AB3B-3A08-43E7-A2F5-EC5A8AC6606E}.Debug|x86.Build.0 = Debug|Win32
+		{D710AB3B-3A08-43E7-A2F5-EC5A8AC6606E}.Release|x64.ActiveCfg = Release|x64
+		{D710AB3B-3A08-43E7-A2F5-EC5A8AC6606E}.Release|x64.Build.0 = Release|x64
+		{D710AB3B-3A08-43E7-A2F5-EC5A8AC6606E}.Release|x86.ActiveCfg = Release|Win32
+		{D710AB3B-3A08-43E7-A2F5-EC5A8AC6606E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

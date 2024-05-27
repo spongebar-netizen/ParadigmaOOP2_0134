@@ -21,5 +21,15 @@ public:
 };
 
 int main() {
-    seseorang* obyek;
+	seseorang* obyek;
+	joko a;
+	lia b;
+
+	obyek = &a;
+	obyek->pesan();
+	obyek = &b;
+	obyek->pesan();
+	//a.seseorang::pesan()
+
+	return 0;
 }
